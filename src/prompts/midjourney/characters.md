@@ -26,7 +26,7 @@ of the image is taken up by the winter spruce forest]
 
 ### 🖼️ Results / Images
 
-- ![Image description](link_or_path_to_image)
+- ![ice fairy](../pictures/)
 
 
 ---
