@@ -20,12 +20,13 @@ prompts/
 - **prompts/**: Main directory containing all prompt files.
   - **chatGPT/[(here!)](https://github.com/VikkMoor/NN-course/tree/main/src/prompts/chatGPT)**: Prompts and results for ChatGPT, organized into themed Markdown files.
     - arts.md [(here!)](https://github.com/VikkMoor/NN-course/blob/main/src/prompts/chatGPT/arts.md)
-    - text-generation.md [(here!)](https://github.com/VikkMoor/NN-course/blob/main/src/prompts/chatGPT/text-generation.md)
+    - text-generation.md [(here!)](https://github.com/VikkMoor/NN-course/blob/main/src/prompts/chatGPT/text-generation.md)  
        (empty rn)
   - **midjourney/[(here!)](https://github.com/VikkMoor/NN-course/tree/main/src/prompts/midjourney)**: Prompts and generated images for Midjourney, organized into themed Markdown files.
     - characters.md [(here!)](https://github.com/VikkMoor/NN-course/blob/main/src/prompts/midjourney/characters.md)
     - landscapes.md [(here!)](https://github.com/VikkMoor/NN-course/blob/main/src/prompts/midjourney/landscapes.md)
     - styles.md [(here!)](https://github.com/VikkMoor/NN-course/blob/main/src/prompts/midjourney/styles.md)
+      (empty rn)
 
 ---
 
