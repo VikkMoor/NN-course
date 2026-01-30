@@ -24,7 +24,7 @@ leggings and a top, sitting and working on a laptop]
 
 ### 🖼️ Results / Images
 
-- ![working girl](/src/prompts/pictures/ChatGPT 30.01.26.png)
+- ![working girl](../pictures/ChatGPT 30.01.26.png)
 
 
 ---
