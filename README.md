@@ -8,18 +8,18 @@ This repository is designed to help me store, organize, and share effective prom
 
 ```
 prompts/
-  ├── chatGPT/ [(here!)](https://github.com/VikkMoor/NN-course/tree/main/src/prompts/chatGPT)
+  ├── chatGPT/ 
   │     ├── arts.md [(here!)](https://github.com/VikkMoor/NN-course/tree/main/src/prompts/chatGPT))](https://github.com/VikkMoor/NN-course/blob/main/src/prompts/chatGPT/arts.md)
   │     └── text-generation.md [(here!)](https://github.com/VikkMoor/NN-course/tree/main/src/prompts/chatGPT)](https://github.com/VikkMoor/NN-course/blob/main/src/prompts/chatGPT/text-generation.md)
-  └── midjourney/ [(here!)](https://github.com/VikkMoor/NN-course/tree/main/src/prompts/midjourney)
+  └── midjourney/ 
         ├── characters.md [(here!)](https://github.com/VikkMoor/NN-course/blob/main/src/prompts/midjourney/characters.md)
         ├── landscapes.md [(here!](https://github.com/VikkMoor/NN-course/blob/main/src/prompts/midjourney/landscapes.md)
         └── styles.md [(here!)](https://github.com/VikkMoor/NN-course/blob/main/src/prompts/midjourney/styles.md)
 ```
 
 - **prompts/**: Main directory containing all prompt files.
-  - **chatGPT/**: Prompts and results for ChatGPT, organized into themed Markdown files.
-  - **midjourney/**: Prompts and generated images for Midjourney, organized into themed Markdown files.
+  - **chatGPT/[(here!)](https://github.com/VikkMoor/NN-course/tree/main/src/prompts/chatGPT)**: Prompts and results for ChatGPT, organized into themed Markdown files.
+  - **midjourney/[(here!)](https://github.com/VikkMoor/NN-course/tree/main/src/prompts/midjourney)**: Prompts and generated images for Midjourney, organized into themed Markdown files.
 
 ---
 
