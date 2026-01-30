@@ -1,7 +1,6 @@
 # 🗂️ Prompt & Image Collection Repository
 
-Welcome to the Prompt & Image Collection Repository!  
-This repository is designed to help you store, organize, and share effective prompts and their results for ChatGPT and Midjourney, categorized by theme.
+This repository is designed to help me store, organize, and share effective prompts and their results for ChatGPT and Midjourney, categorized by theme.
 
 ---
 
@@ -9,14 +8,13 @@ This repository is designed to help you store, organize, and share effective pro
 
 ```
 prompts/
-  ├── chatGPT/
-  │     ├── business.md
-  │     ├── creative-writing.md
-  │     └── ...
-  └── midjourney/
-        ├── fantasy-art.md
-        ├── landscapes.md
-        └── ...
+  ├── chatGPT/ [(here!)](https://github.com/VikkMoor/NN-course/tree/main/src/prompts/chatGPT)
+  │     ├── arts.md [(here!)](https://github.com/VikkMoor/NN-course/tree/main/src/prompts/chatGPT))](https://github.com/VikkMoor/NN-course/blob/main/src/prompts/chatGPT/arts.md)
+  │     └── text-generation.md [(here!)](https://github.com/VikkMoor/NN-course/tree/main/src/prompts/chatGPT)](https://github.com/VikkMoor/NN-course/blob/main/src/prompts/chatGPT/text-generation.md)
+  └── midjourney/ [(here!)](https://github.com/VikkMoor/NN-course/tree/main/src/prompts/midjourney)
+        ├── characters.md [(here!)](https://github.com/VikkMoor/NN-course/blob/main/src/prompts/midjourney/characters.md)
+        ├── landscapes.md [(here!](https://github.com/VikkMoor/NN-course/blob/main/src/prompts/midjourney/landscapes.md)
+        └── styles.md [(here!)](https://github.com/VikkMoor/NN-course/blob/main/src/prompts/midjourney/styles.md)
 ```
 
 - **prompts/**: Main directory containing all prompt files.
@@ -30,12 +28,7 @@ prompts/
 1. **Browse by Model and Theme:**  
    Navigate into `prompts/chatGPT` or `prompts/midjourney` and select a themed `.md` file to explore prompts and their outcomes.
 
-2. **Add Your Own Prompts:**  
-   - Copy the Markdown template provided in each file or in the root of the repo.
-   - Paste it into the appropriate theme file and fill in your new prompt, settings, and results.
-   - Add images by uploading them to the repository (or linking from the web) and referencing them in your Markdown.
-
-3. **Organize and Expand:**  
+2. **Organize and Expand:**  
    - Create new themed `.md` files as needed.
    - Keep similar prompts grouped together for easy reference and sharing.
 
