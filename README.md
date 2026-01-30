@@ -1,6 +1,6 @@
 # 🗂️ Prompt & Image Collection Repository
 
-Welcome to my repository which is designed to help me store, organize, and share effective prompts and their results for ChatGPT and Midjourney, categorized by theme.
+Welcome to my repository! It's designed to help me store, organize, and share effective prompts and their results for ChatGPT and Midjourney, categorized by theme.
 
 ---
 
