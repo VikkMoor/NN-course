@@ -24,6 +24,6 @@ in the foreground, not too bright colors, lots of sky.]
 
 ### 🖼️ Results / Images
 
-- ![Image description](link_or_path_to_image)
+- ![Image description](../pictures/wallpaper.png)
 
 ---

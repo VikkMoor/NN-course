@@ -26,7 +26,7 @@ of the image is taken up by the winter spruce forest]
 
 ### 🖼️ Results / Images
 
-- ![ice fairy](../pictures/)
+- ![ice fairy](../pictures/winterfairy.png)
 
 
 ---
@@ -52,7 +52,7 @@ serious expressions.]
 
 ### 🖼️ Results / Images
 
-- ![Image description](link_or_path_to_image)
+- ![Image description](../pictures/WutheringCat.png)
 
 ---
 
@@ -81,7 +81,7 @@ in black pants and a black cloak]
 
 ### 🖼️ Results / Images
 
-- ![Image description](link_or_path_to_image)
+- ![Image description](../pictures/galactic_warrior.png)
 
 ---
 
