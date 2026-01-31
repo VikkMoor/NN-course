@@ -70,6 +70,6 @@ Please keep entries clear and organized, and respect licensing for image use.
 
 ## 📬 Contact
 
-For suggestions or collaboration, open an issue or reach out via GitHub.
+For suggestions or collaboration, reach out via GitHub or telegramm.
 
 ---
