@@ -9,9 +9,9 @@
 ### 🚀 Prompt
 
 ```
-[i need an illustration of a female gamer in a modern room with a TV 
+[i need an illustration of a blonde female gamer with bob hair in a modern room with a TV 
 and a gaming console. The room is a bit of a mess. She's wearing 
-leggings and a top, sitting and working on a laptop]
+leggings and a top, sitting and working on a laptop in lil dark room]
 ```
 
 ---
